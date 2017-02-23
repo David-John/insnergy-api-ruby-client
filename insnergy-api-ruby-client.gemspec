@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
   s.authors = ["Tsao".freeze, "jddd5456".freeze]
   s.date = "2017-02-23"
   s.description = "The ruby gem about In-Snergy Family".freeze
-  s.email = "tsaohucn@gmail.com".freeze
+  s.email = "jddd5456@gmail.com".freeze
   s.extra_rdoc_files = [
     "LICENSE.txt",
     "README.md"
@@ -28,10 +28,9 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "insnergy-api-ruby-client.gemspec",
-    "lib/insnergy-api-ruby-client.rb",
-    "test"
+    "lib/insnergy-api-ruby-client.rb"
   ]
-  s.homepage = "https://github.com/tsaohucn/insnergy-api-ruby-client".freeze
+  s.homepage = "https://github.com/jddd5456/insnergy-api-ruby-client".freeze
   s.licenses = ["MIT".freeze]
   s.rubygems_version = "2.6.8".freeze
   s.summary = "The ruby gem about In-Snergy Family".freeze
