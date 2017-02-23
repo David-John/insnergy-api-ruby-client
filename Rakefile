@@ -15,11 +15,11 @@ require 'juwelier'
 Juwelier::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://guides.rubygems.org/specification-reference/ for more options
   gem.name = "insnergy-api-ruby-client"
-  gem.homepage = "https://github.com/tsaohucn/insnergy-api-ruby-client"
+  gem.homepage = "https://github.com/jddd5456/insnergy-api-ruby-client"
   gem.license = "MIT"
   gem.summary = %Q{The ruby gem about In-Snergy Family}
   gem.description = %Q{The ruby gem about In-Snergy Family}
-  gem.email = "tsaohucn@gmail.com"
+  gem.email = "jddd5456@gmail.com"
   gem.authors = ["Tsao","jddd5456"]
 
   # dependencies defined in Gemfile
